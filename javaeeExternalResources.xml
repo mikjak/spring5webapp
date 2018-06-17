@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.thymeleaf.org/dtd/xhtml1-strict-thymeleaf-spring4-4.dtd" location="$USER_HOME$/.IdeaIC2018.1/system/extResources/3c38f83b_xhtml1-strict-thymeleaf-spring4-4.dtd" />
+    <resource url="http://www.w3.org/TR/xhtml1/DTD/xhtml-symbol.ent" location="$USER_HOME$/.IdeaIC2018.1/system/extResources/3f2ce99e_xhtml-symbol.ent" />
+  </component>
+</application>
